@@ -6,17 +6,40 @@ description: 神行者SDWAN BOSS管理系统-客户侧
 
 **SDWAN BOSS管理系统V1.0.5**
 
+## Getting Super Powers
+
+Becoming a super hero is a fairly straight forward process:
+
 **产品手册-客户侧**
+
+```
+$ give me super-powers
+```
 
 长沙市同迅计算机科技有限公司
 
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
 2020-3
+
+Once you're strong enough, save the world:
 
 版权声明
 
 长沙市同迅计算机科技有限公司版权所有，并保留对本文档及本声明的最终解释权和修改权。本文档中出现的任何文字叙述、文档格式、插图、照片、方法、过程等内容，除另有特别注明外，其著作权或其它相关权利均属于长沙市同迅计算机科技有限公司。未经长沙市同迅计算机科技有限公司书面同意，任何人不得以任何方式或形式对本文档内的任何部分进行复制、摘录、 备份、修改、传播、翻译成其他语言、将其全部或部分用于商业用途。
 
+{% code title="hello.sh" %}
+```bash
+# Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+{% endcode %}
+
 免责条款
+
+
 
 本文档仅用于为最终用户提供信息，其内容如有更改，恕不另行通知。
 
